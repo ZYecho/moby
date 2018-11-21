@@ -1,0 +1,13 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "m7W0BwtN96IfDyaN8GHU9O/VO4k=",
+			"path": "github.com/ceph/go-ceph",
+			"revision": "e1762cd8b39ead9ee72333f08ebced60bdc0d4b5",
+			"revisionTime": "2018-10-11T21:59:13Z"
+		}
+	],
+	"rootPath": "github.com/moby/moby"
+}
