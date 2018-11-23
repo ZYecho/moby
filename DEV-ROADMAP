@@ -1,0 +1,12 @@
+### 11.26-11.30
+1. go ceph client选型
+2. 搭建ceph集群
+3. 跑通简单的client逻辑
+
+### 12.3-12.28
+尝试完成ceph storage driver
+1. 调整makefile,完善编译链条
+2. 在client上封装一层service接口
+3. 完成driver diff相关接口
+4. 完成driver snapshot相关接口
+5. 调试
